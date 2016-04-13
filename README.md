@@ -1,5 +1,14 @@
 #COBOL on Linux
+To create cobol development environment on Linux (Ubuntu) VM 
+```
+$ vagrant up
+```
+See vagrant.log for output. 
 
+Requires virtualbox and vagrant from https://www.virtualbox.org and www.vagrantup.com
+
+
+### Manual steps, before provision.sh
 ```
 sudo apt-get install open-cobol
 root@precise64:~# which cobc
