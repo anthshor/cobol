@@ -1,5 +1,5 @@
 #COBOL on Linux
-To create cobol development environment on Linux (Ubuntu) VM 
+To create COBOL development environment on Linux (Ubuntu) VM 
 ```
 $ vagrant up
 ```
